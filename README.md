@@ -1,0 +1,2 @@
+# call_mspaint_by_autohotkey
+快速打开画图软件 使用autohotkey
